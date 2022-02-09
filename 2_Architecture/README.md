@@ -1,3 +1,8 @@
 # High level Behavioural Diagrams
   
-  ![Activity Diagram](FLOWCHART.jpg)
+  
+  # Activity Diagram
+  ![Activity Diagram](FLOWCHART.JPG.jpg)
+  
+  # Use Case Diagram
+  ![Use Case Diagram](usecasediagram.jpg)
