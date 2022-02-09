@@ -8,8 +8,8 @@
 
 # Hackerearth Practice
 
-![](hackerearth.png)
+![](hackerearth.PNG)
 
 # Github Learning
 
-![](githublearning.jpg)
+![](githublearning.JPG)
