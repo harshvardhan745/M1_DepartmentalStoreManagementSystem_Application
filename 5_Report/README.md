@@ -60,3 +60,11 @@ The function void gotoxy(int x, int y) is used in this project which helps the u
        Small departmental store can be easily managed by this application and it is very simple to use so, it can be used easily.
       
      
+# High level Behavioural Diagrams
+  
+  
+  # Activity Diagram
+  ![Activity Diagram](2_Architecture/FLOWCHART.JPG.jpg)
+  
+  # Use Case Diagram
+  ![Use Case Diagram](2_Architecture/usecasediagram.jpg)
