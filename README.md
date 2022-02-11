@@ -4,4 +4,4 @@ This is a Application called Departmental Management System and it is very helpf
 
 # Static analysis of code
   - Cppcheck
-![]([![Cppcheck](https://github.com/harshvardhan745/M1_DepartmentalStoreManagementSystem_Application/actions/workflows/Static-check.yml/badge.svg?branch=main)](https://github.com/harshvardhan745/M1_DepartmentalStoreManagementSystem_Application/actions/workflows/Static-check.yml))
+[![Cppcheck](https://github.com/harshvardhan745/M1_DepartmentalStoreManagementSystem_Application/actions/workflows/Static-check.yml/badge.svg)](https://github.com/harshvardhan745/M1_DepartmentalStoreManagementSystem_Application/actions/workflows/Static-check.yml))
