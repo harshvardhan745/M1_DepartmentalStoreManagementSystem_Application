@@ -14,4 +14,4 @@
  ![](5.JPG)
  
   # Delete of bill
- ![](2.JPG)
+ ![](6.JPG)
